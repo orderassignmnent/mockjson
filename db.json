@@ -33,31 +33,31 @@
   ],
   "classic": [
     {
-      "id": 1,
+      "id": 6,
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "src": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_1/v1485904951/pro_pbid_55871.jpg",
     },
     {
-      "id": 2,
+      "id": 7,
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "src": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_1/v1581444881/pro_pbid_14442.jpg",
     },
     {
-      "id": 3,
+      "id": 8,
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
       "src": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_1/v1587968041/pro_pbid_3805408.jpg",
     },
     {
-      "id": 4,
+      "id": 9,
       "title": "Little Women",
       "author": "Louisa May Alcott",
       "src": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_1/v1615176090/pro_pbid_132013.jpg",
     },
     {
-      "id": 5,
+      "id": 10,
       "title": "Rebecca",
       "author": "Daphne du Maurier",
       "src": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_1/v1473373040/pro_pbid_22159.jpg",
@@ -65,31 +65,31 @@
   ],
   "detective": [
     {
-      "id": 1,
+      "id": 11,
       "title": "And Then There Were None",
       "author": "Agatha Christie",
       "src": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg",
     },
     {
-      "id": 2,
+      "id": 12,
       "title": "The Big Sleep",
       "author": "Raymond Chandler",
       "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371584712l/2052.jpg",
     },
     {
-      "id": 3,
+      "id": 13,
       "title": "Gone Girl",
       "author": "Gillian Flynn",
       "src": "https://m.media-amazon.com/images/I/414FyC8BAuL.jpg",
     },
     {
-      "id": 4,
+      "id": 14,
       "title": "The Postman Always Rings Twice",
       "author": "James M. Cain",
       "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330271399l/591352.jpg",
     },
     {
-      "id": 5,
+      "id": 15,
       "title": "In Cold Blood",
       "author": "Truman Capote",
       "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642.jpg",
